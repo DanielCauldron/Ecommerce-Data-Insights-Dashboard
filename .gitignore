@@ -9,14 +9,9 @@ __pycache__/
 data/raw/
 data/processed/
 
-# Power BI
-*.pbix
 
 # Notebooks e checkpoints
 *.ipynb_checkpoints
-
-# Prints e metabase
-metabase/prints/
 
 # Arquivos temporários e logs
 *.pyc
