@@ -79,4 +79,4 @@ Este projeto apresenta um pipeline completo de dados para e-commerce, integrando
 ## Autor
 
 Projeto desenvolvido por [Daniel Caldeirão].  
-Para dúvidas técnicas, consulte `.github/copilot-instructions.md`.
+Para dúvidas técnicas, consulte `https://www.linkedin.com/in/daniel-cauldron/`.
