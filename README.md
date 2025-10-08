@@ -18,7 +18,7 @@ Este projeto apresenta um pipeline completo de dados para e-commerce, integrando
 
 *Exemplo de dashboard Metabase:*
 
-![Dashboard E-commerce](metabase/prints/dashboard.png)
+![Dashboard E-commerce](https://github.com/DanielCauldron/Ecommerce-Data-Insights-Dashboard/tree/main)
 
 ---
 
