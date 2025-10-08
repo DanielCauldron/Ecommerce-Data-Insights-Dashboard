@@ -40,7 +40,6 @@ Este projeto apresenta um pipeline completo de dados para e-commerce, integrando
 ├── scripts/         # ETL e conexão com banco
 ├── sql/             # Criação, inserção e KPIs
 ├── notebooks/       # Exploração e análise
-├── powerbi/         # Dashboard Power BI
 ├── metabase/        # Prints Metabase
 ├── requirements.txt # Dependências Python
 └── README.md        # Este arquivo
